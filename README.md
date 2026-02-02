@@ -29,14 +29,23 @@ A Spring Boot–based Hospital Management System designed to manage users, docto
 
 ## 📂 Project Structure
 src/main/java
+
 └── com.springboot.project.hospitalmanagement
+
 ├── controller
+
 ├── service
+
 ├── repository
+
 ├── entity
+
 ├── dto
+
 ├── security
+
 ├── exception
+
 └── config
 
 
